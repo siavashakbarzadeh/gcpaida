@@ -1,0 +1,16 @@
+city,region,r2_lag7,r2_lag15,r2_delta,r2_improved,active_lag7,active_lag15
+Milano,North,0.9414,0.9088,-0.0326,No,2,1
+Bergamo,North,0.5522,0.5523,0.0001,Yes,1,1
+Brescia,North,0.7699,0.7519,-0.018,No,2,2
+Monza_E_Della_Brianza,North,0.9221,0.8976,-0.0245,No,2,1
+Como,North,0.8402,0.8116,-0.0286,No,2,2
+Roma,Center,0.8943,0.8742,-0.0201,No,2,2
+Firenze,Center,0.9279,0.9088,-0.0191,No,2,1
+Perugia,Center,0.9086,0.9119,0.0033,Yes,1,2
+Latina,Center,0.4827,0.4433,-0.0394,No,2,2
+Frosinone,Center,0.6161,0.4312,-0.1849,No,2,1
+Napoli,South,0.9093,0.8998,-0.0095,No,3,2
+Caserta,South,0.8744,0.8665,-0.0079,No,2,2
+Salerno,South,0.8283,0.8199,-0.0084,No,3,1
+Bari,South,0.8512,0.8502,-0.001,No,1,1
+Taranto,South,0.8255,0.7915,-0.034,No,1,1

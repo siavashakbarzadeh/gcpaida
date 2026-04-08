@@ -1,0 +1,11 @@
+source,target,strength,lag_days
+Milano,Torino,strong,3
+Milano,Genova,strong,4
+Milano,Bologna,medium,5
+Roma,Napoli,strong,3
+Roma,Firenze,medium,4
+Napoli,Bari,strong,4
+Napoli,Palermo,medium,5
+Bologna,Firenze,strong,3
+Catania,Palermo,strong,2
+Bari,Catania,medium,5

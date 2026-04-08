@@ -1,0 +1,108 @@
+city,n_connections,linked_cities,is_hub
+Bari,12,Taranto,True
+Torino,10,Alessandria; Novara,True
+Milano,8,Brescia; Lodi,True
+Frosinone,7,Latina,True
+Livorno,7,Bari,True
+Barletta-Andria-Trani,6,Latina; Livorno; Taranto,True
+Vicenza,6,Varese; Padova,True
+Latina,6,Bari,True
+Napoli,5,Avellino,True
+Treviso,5,Vicenza,True
+Teramo,5,Reggio_Di_Calabria; Foggia; Brindisi; Pescara; Cosenza,True
+Padova,5,Frosinone; Udine; Treviso; Vicenza,True
+Isernia,4,Pordenone; Campobasso; Rovigo; Livorno,False
+Pescara,4,Bari,False
+Trapani,4,Firenze; Bari; Barletta-Andria-Trani; Latina,False
+Foggia,4,Bari,False
+Cagliari,4,Barletta-Andria-Trani,False
+Cosenza,4,Bari,False
+Udine,4,Arezzo; Monza_E_Della_Brianza,False
+Nuoro,4,Foggia; Barletta-Andria-Trani; Pescara; Matera,False
+Vercelli,4,Frosinone; Milano; Torino,False
+Macerata,4,Ascoli_Piceno,False
+Arezzo,4,Firenze; Treviso; Livorno,False
+Reggio_Di_Calabria,4,Cosenza,False
+Ragusa,3,Cagliari; Pescara; Reggio_Di_Calabria,False
+Lucca,3,Frosinone,False
+Piacenza,3,Parma,False
+Genova,3,Savona,False
+Pordenone,3,Udine,False
+Firenze,3,Roma,False
+Matera,3,Bari; Foggia,False
+Massa_Carrara,3,Frosinone; Pordenone; Lucca,False
+Bergamo,3,Milano,False
+Rieti,3,Vicenza; Roma,False
+Roma,3,Latina,False
+Ancona,3,Macerata,False
+Rovigo,3,Frosinone; Vicenza,False
+Varese,3,Bergamo; Milano,False
+Brindisi,3,Bari,False
+Benevento,3,Piacenza; Fermo,False
+Brescia,3,Milano,False
+Verona,2,Pisa; Livorno,False
+Verbano-Cusio-Ossola,2,Brescia; Torino,False
+Monza_E_Della_Brianza,2,Brescia,False
+Prato,2,Torino; Cosenza,False
+Trieste,2,Lucca; Torino,False
+Potenza,2,Bari; L'Aquila,False
+Terni,2,Ancona,False
+Taranto,2,Bari; Barletta-Andria-Trani,False
+Pisa,2,Livorno,False
+Siena,2,Bari; Treviso,False
+Alessandria,2,Asti; Torino,False
+Parma,2,Benevento,False
+Agrigento,2,Cagliari; Brindisi,False
+Caserta,2,Napoli,False
+Catania,2,Livorno; Reggio_Di_Calabria,False
+Como,2,Lecco,False
+Chieti,2,Lecce,False
+Gorizia,2,Rieti; Vercelli,False
+Imperia,2,Genova; Padova,False
+Cuneo,2,Treviso; Torino,False
+Asti,2,Alessandria; Torino,False
+Lecce,2,Bari,False
+Ascoli_Piceno,2,Macerata,False
+Venezia,1,Vicenza,False
+Cremona,1,Bergamo,False
+Aosta,1,Torino,False
+Salerno,1,Caserta,False
+Savona,1,Genova,False
+Sondrio,1,Como,False
+Catanzaro,1,Chieti,False
+Belluno,1,Milano,False
+Avellino,1,Napoli,False
+Mantova,1,Milano,False
+Campobasso,1,Isernia,False
+Bologna,1,Napoli,False
+Biella,1,Torino,False
+Rimini,1,Napoli,False
+Viterbo,1,Latina,False
+Pavia,1,Milano,False
+L'Aquila,1,Potenza,False
+La_Spezia,1,Genova,False
+Oristano,1,Cagliari,False
+Reggio_Nell'Emilia,1,Napoli,False
+Perugia,1,Terni,False
+Pesaro_E_Urbino,1,Ancona,False
+Novara,1,Torino,False
+Lecco,1,Como,False
+Pistoia,1,Frosinone,False
+Lodi,1,Milano,False
+Forlì-Cesena,1,Ascoli_Piceno,False
+Ferrara,1,Piacenza,False
+Fermo,1,Benevento,False
+Modena,1,Macerata,False
+Ravenna,1,Macerata,False
+Vibo_Valentia,0,Barletta-Andria-Trani; Livorno; Cosenza,False
+Palermo,0,Latina,False
+Crotone,0,Cosenza,False
+Bolzano,0,Vibo_Valentia,False
+Trento,0,Catania,False
+Caltanissetta,0,Messina; Lecce,False
+Grosseto,0,Bari; Alessandria,False
+Sud_Sardegna,0,Arezzo; L'Aquila; Cagliari; Potenza,False
+Siracusa,0,Bari,False
+Sassari,0,Brindisi,False
+Enna,0,Nuoro; Catania,False
+Messina,0,Reggio_Di_Calabria,False

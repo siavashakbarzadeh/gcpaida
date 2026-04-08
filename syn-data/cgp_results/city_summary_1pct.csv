@@ -1,0 +1,11 @@
+city,r2_score,n_connections,linked_cities
+Torino,0.9996,1,Milano
+Genova,0.9996,2,Milano; Torino
+Bologna,0.9994,1,Roma
+Bari,0.9993,1,Torino
+Firenze,0.9992,1,Milano
+Palermo,0.999,2,Genova; Napoli
+Napoli,0.9988,1,Torino
+Roma,0.9984,1,Torino
+Catania,0.9977,2,Genova; Palermo
+Milano,0.9964,3,Roma; Torino; Palermo

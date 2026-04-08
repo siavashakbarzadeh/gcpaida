@@ -1,0 +1,11 @@
+city,region,population,total_cases,infection_rate_pct,mean_beta,mean_R0
+Roma,Lazio,4350000,4263710,98.02,0.3499,2.5
+Napoli,Campania,3100000,3240921,104.55,0.3509,2.51
+Milano,Lombardia,3250000,3205766,98.64,0.3506,2.5
+Torino,Piemonte,2250000,2338093,103.92,0.3504,2.5
+Bari,Puglia,1260000,1378433,109.4,0.35,2.5
+Palermo,Sicilia,1270000,1374277,108.21,0.3495,2.5
+Firenze,Toscana,1010000,1154824,114.34,0.3509,2.51
+Catania,Sicilia,1115000,1132950,101.61,0.3495,2.5
+Bologna,Emilia-Romagna,1015000,1091910,107.58,0.3497,2.5
+Genova,Liguria,850000,980549,115.36,0.3505,2.5

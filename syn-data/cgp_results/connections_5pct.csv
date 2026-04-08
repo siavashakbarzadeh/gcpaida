@@ -1,0 +1,14 @@
+city_1,city_2,connection_strength_R2,is_significant,is_ground_truth,classification
+Bologna,Roma,0.9997,True,False,FP
+Firenze,Roma,0.9996,True,True,TP
+Firenze,Milano,0.9996,True,False,FP
+Milano,Torino,0.9995,True,True,TP
+Bari,Roma,0.9995,True,False,FP
+Bari,Bologna,0.9995,True,False,FP
+Genova,Torino,0.9994,True,False,FP
+Palermo,Roma,0.9991,True,False,FP
+Genova,Palermo,0.9991,True,False,FP
+Napoli,Torino,0.9988,True,False,FP
+Milano,Roma,0.9982,True,False,FP
+Catania,Genova,0.9978,True,False,FP
+Bari,Catania,0.9978,True,True,TP

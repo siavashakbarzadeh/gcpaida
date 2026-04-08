@@ -1,0 +1,16 @@
+city,region,cgp_r2,n_active_inputs,active_cities,active_functions,is_significant
+Milano,North,0.9414,2,Perugia; Firenze,weighted_add,True
+Bergamo,North,0.5522,1,Brescia,weighted_add,False
+Brescia,North,0.7699,2,Bergamo; Firenze,avg,False
+Monza_E_Della_Brianza,North,0.9221,2,Milano; Firenze,avg,True
+Como,North,0.8402,2,Salerno; Milano,avg; avg,False
+Roma,Center,0.8943,2,Bari; Firenze,avg,False
+Firenze,Center,0.9279,2,Milano; Monza_E_Della_Brianza,avg,True
+Perugia,Center,0.9086,1,Milano,,True
+Latina,Center,0.4827,2,Frosinone; Bari,avg; min,False
+Frosinone,Center,0.6161,2,Milano; Latina,avg,False
+Napoli,South,0.9093,3,Caserta; Roma; Monza_E_Della_Brianza,avg; avg,True
+Caserta,South,0.8744,2,Salerno; Milano,weighted_add,False
+Salerno,South,0.8283,3,Perugia; Brescia; Roma,min; avg; weighted_add,False
+Bari,South,0.8512,1,Taranto,avg,False
+Taranto,South,0.8255,1,Bari,weighted_add,False

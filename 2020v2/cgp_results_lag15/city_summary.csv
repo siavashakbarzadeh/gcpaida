@@ -1,0 +1,16 @@
+city,region,cgp_r2,n_active_inputs,active_cities,active_functions
+Milano,North,0.9088,1,Firenze,
+Bergamo,North,0.5523,1,Brescia,10
+Brescia,North,0.7519,2,"Milano, Bergamo",2
+Monza_E_Della_Brianza,North,0.8976,1,Milano,
+Como,North,0.8116,2,"Milano, Caserta",3
+Roma,Center,0.8742,2,"Napoli, Perugia",0
+Firenze,Center,0.9088,1,Milano,
+Perugia,Center,0.9119,2,"Roma, Milano",10
+Latina,Center,0.4433,2,"Bari, Frosinone",0
+Frosinone,Center,0.4312,1,Napoli,
+Napoli,South,0.8998,2,"Milano, Perugia",1
+Caserta,South,0.8665,2,"Napoli, Perugia",23
+Salerno,South,0.8199,1,Caserta,10
+Bari,South,0.8502,1,Taranto,5
+Taranto,South,0.7915,1,Bari,
