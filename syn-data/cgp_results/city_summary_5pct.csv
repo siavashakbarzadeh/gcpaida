@@ -1,11 +1,11 @@
-city,r2_score,n_connections,linked_cities
-Bologna,0.9997,1,Roma
-Firenze,0.9996,2,Roma; Milano
-Torino,0.9995,1,Milano
-Bari,0.9995,2,Roma; Bologna
-Genova,0.9994,1,Torino
-Palermo,0.9991,2,Roma; Genova
-Napoli,0.9988,1,Torino
-Roma,0.9982,1,Milano
-Catania,0.9978,2,Genova; Bari
-Milano,0.9909,1,Roma
+city,r2_score,n_connections,linked_cities,active_functions
+Bologna,0.9999,2,Genova; Milano,weighted_add; avg
+Torino,0.9998,2,Milano; Roma,weighted_add
+Genova,0.9998,2,Bologna; Torino,weighted_add
+Firenze,0.9997,2,Bari; Roma,avg; weighted_add; weighted_add
+Bari,0.9996,5,Napoli; Bologna; Torino; Milano; Palermo,weighted_add; weighted_add; min; max
+Palermo,0.9991,2,Genova; Napoli,weighted_add
+Napoli,0.9988,1,Torino,
+Catania,0.9983,3,Bologna; Napoli; Palermo,max; avg; weighted_add
+Roma,0.9982,1,Milano,
+Milano,0.9909,1,Roma,
